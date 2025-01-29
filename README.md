@@ -15,6 +15,6 @@ Code to make life in lab a little easier
    * ./rename_files.sh # runs the script
 6. Check for errors
    *Renamed files will be located in a new folder titled "renamed_files" (or whatever you named it if you changed DEST_DIR)
-   *"❌ Error: Source directory not found: $SOURCE_DIR" means the path to the source directory was incorrect
-   *"⚠️ Skipping (does not match prefix)" means that a file did not begin with the specified prefix and it will not be renamed
+   * "❌ Error: Source directory not found: $SOURCE_DIR" means the path to the source directory was incorrect
+   * "⚠️ Skipping (does not match prefix)" means that a file did not begin with the specified prefix and it will not be renamed
    
