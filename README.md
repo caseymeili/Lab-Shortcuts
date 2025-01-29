@@ -10,6 +10,7 @@ Code to make life in lab a little easier
    * Save and close
 4. Open terminal and navigate to where script is saved using cd /path/to/destination
    * You can type cd into the terminal and drag the location of the script to get the exact path
+   * Try not to have spaces in the names of your folders to avoid potential issues
 5. Run the following commands:
    * chmod +x rename_files.sh # gives permission to execute
    * ./rename_files.sh # runs the script
