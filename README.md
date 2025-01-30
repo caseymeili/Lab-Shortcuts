@@ -19,5 +19,13 @@ Code to make life in lab a little easier
    * "⚠️ Skipping (does not match prefix)" means that a file did not begin with the specified prefix and it will not be renamed
 
 **Balance Centrifuge**
+
 Code modified from derekLS1: https://github.com/derekLS1/BalanceCentrifuge/tree/master
+1. Download script titled BalanceCentrifuge.R
+2. Open script in a text editor like BBEdit and modify the "EDIT BELOW" section
+   * Edit the file path to where you want the diagrams saved (line 4)
+   * Edit optional variables (if applicable) including the number of slots in centrifuge and diagram formatting (lines 5-10)
+3. Select all text in file (ctrl+A or command+A), copy, and paste into R where you see the ">" sign and press enter
+4. Image will be saved at location specified in line 4
+
 
