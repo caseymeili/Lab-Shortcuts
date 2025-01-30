@@ -3,7 +3,7 @@ Code to make life in lab a little easier
 
 **Renaming files for Legendplex Assay**
 1. Download script titled "rename_files.sh"
-2. Edit the configuration portion of "rename_files.sh"
+2. Open "rename_files.sh" and edit the "SOURCE_DIR" and "PREFIX" fields. Script must be opened using a text editor like BBEdit
    * Change "SOURCE_DIR" to the path to your file directory (where the files you want to rename are located)
    * Change "PREFIX" to the part of the file name you want to remove. Copy and paste, it must be identical.
    * Change "DEST_DIR" to change the name and location of the new folder created with the renamed files, defaults to "renamed_files" within the folder of the files being renamed
